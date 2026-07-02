@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>TianZige</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://mrliangt.github.io/</id>
+  <link href="https://mrliangt.github.io/" rel="alternate"/>
+  <link href="https://mrliangt.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, TianZige</rights>
+  <subtitle>TianZige 的个人博客，记录学习、生活与技术笔记。</subtitle>
+  <title>TianZiGe-Blog</title>
+  <updated>2026-07-02T08:53:56.032Z</updated>
+  <entry>
+    <author>
+      <name>TianZige</name>
+    </author>
+    <content>
+      <![CDATA[<h2 id="Test-for-Blog"><a href="#Test-for-Blog" class="headerlink" title="Test for Blog"></a>Test for Blog</h2><h4 id="title-1"><a href="#title-1" class="headerlink" title="title-1"></a>title-1</h4><h5 id="title-2"><a href="#title-2" class="headerlink" title="title&#x3D;2"></a>title&#x3D;2</h5>]]>
+    </content>
+    <id>https://mrliangt.github.io/2026/07/02/Blog-Hello-World/</id>
+    <link href="https://mrliangt.github.io/2026/07/02/Blog-Hello-World/"/>
+    <published>2026-07-02T08:51:58.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="Test-for-Blog"><a href="#Test-for-Blog" class="headerlink" title="Test for Blog"></a>Test for Blog</h2><h4 id="title-1"><a href="#ti]]>
+    </summary>
+    <title>Blog Hello World!</title>
+    <updated>2026-07-02T08:53:56.032Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>TianZige</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://mrliangt.github.io/2026/07/02/hello-world/</id>
+    <link href="https://mrliangt.github.io/2026/07/02/hello-world/"/>
+    <published>2026-07-02T08:35:44.999Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-07-02T08:35:44.999Z</updated>
+  </entry>
+</feed>
