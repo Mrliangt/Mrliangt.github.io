@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mrliangt.github.io/2026/07/03/radar/</loc>
-    
-    <lastmod>2026-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mrliangt.github.io/2026/07/03/Multi-base-Radar-exp/</loc>
     
     <lastmod>2026-07-03</lastmod>
@@ -126,34 +117,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://mrliangt.github.io/tags/radar/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mrliangt.github.io/tags/THZ/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mrliangt.github.io/tags/Multi-base/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://mrliangt.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
